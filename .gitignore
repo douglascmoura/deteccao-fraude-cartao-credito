@@ -1,0 +1,19 @@
+# Arquivos de dados pesados (> 100MB são bloqueados pelo GitHub)
+data/*.csv
+data/*.zip
+
+# Python & Ambientes Virtuais
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
