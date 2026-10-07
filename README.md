@@ -1,5 +1,9 @@
 <a name="topo"></a>
 
+<p align="center">
+  <img src="./images/readme-cover.jpeg" alt="Capa Detecção de Fraude em Cartões de Crédito" width="100%" style="border-radius: 8px;" />
+</p>
+
 <h1 align="center">🛡️ Detecção de Fraude em Cartões de Crédito: Pipeline de Machine Learning & Impacto Financeiro</h1>
 
 <p align="center">
@@ -93,6 +97,8 @@ O projeto segue padrões de engenharia de software modular, desacoplando o códi
 credit_card_fraud_detection/
 ├── data/
 │   └── creditcard.csv                 # Base transacional (Kaggle/ULB - 284.807 registros)
+├── images/
+│   └── readme-cover.jpeg              # Imagem de capa do projeto
 ├── notebooks/
 │   ├── 01_eda.ipynb                   # Análise exploratória profunda, comportamento temporal e outliers
 │   └── 02_ml_model.ipynb              # Pipelines de ML, reamostragem, tuning e simulação de ROI
